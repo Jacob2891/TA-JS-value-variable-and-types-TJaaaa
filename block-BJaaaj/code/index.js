@@ -1,4 +1,4 @@
-// Accessing and assigning.
+ // Accessing and assigning.
 
 let firstName = "Arya";
 let lastName = "Stark";
@@ -39,3 +39,26 @@ let amount = 4280;
 // Declare another variable `addedAmount`. It's value should be 32 more than the value of amount.
 // Declare a variable `multipleAmount`. It's value should be 7 times the value of amount.
 // Declare a variable `dividedAmount`. It should store the resultant of amount divided by 57.
+
+alert (firstName) ;
+alert(lastName) ;
+firstName = "John" ;
+lastName = "Snow" ;
+alert (firstName + " " + lastName) ;
+const fullName = firstName + " " + lastName ;
+var name = "Jacob" ;
+var newUser = name ;
+var isAdmin = true ;
+
+/* variable "name" is deprecated */
+
+var wiseMan = "Samwell Tarly" ;
+var userName = "Lysa Arryn" ;
+var oddNumber = 61 ;
+
+var reducedAmount = amount - 24 ;
+var addedAmount = amount + 32 ;
+var multipleAmount = amount * 7 ;
+var dividedAmount = amount / 57 ;
+
+
