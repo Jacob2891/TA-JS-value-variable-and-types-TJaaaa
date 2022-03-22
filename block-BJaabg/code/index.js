@@ -12,7 +12,22 @@ const PHONE_PRICE = 99.99;
 const ACCESSORY_PRICE = 9.99;
 
 var bank_balance = 303.91;
+var singleYes = PHONE_PRICE+TAX_RATE+ACCESSORY_PRICE ;
+var singleNo = PHONE_PRICE+TAX_RATE ; 
 var amount = 0;
-// your code goes here
+var finalAmount =0;
+
+while(amount<= 0);
+
+{
+    
+}
+
+
+
+
+
+
 
 // ⛑ Answer of the above will `$334.76`.
+
